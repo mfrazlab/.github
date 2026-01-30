@@ -22,7 +22,7 @@ Mfraz is the home of **Vatts.js** and future experiments around backend systems,
 ---
 
 ## Projects
-###   <a href="https://github.com/mfrazlab/vatts.js"><img src="https://raw.githubusercontent.com/mfrazlab/vatts.js/master/docs/public/logo-v.png" width="42" /></a> Vatts.js
+###   <a href="https://github.com/mfrazlab/vatts.js"><img src="https://raw.githubusercontent.com/mfrazlab/vatts.js/docs/public/logo-v.png" width="42" /></a> Vatts.js
 
 A modern, full-featured **Node.js web framework** built for speed, simplicity, and scalability.
 
