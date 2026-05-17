@@ -6,7 +6,7 @@
 
 # Mfraz
 
-Software Engineering • Infrastructure • Distributed Systems
+Software Developer • Infrastructure • Distributed Systems
 
 [![Organization](https://img.shields.io/badge/GitHub-mfrazlab-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfrazlab)
 [![License](https://img.shields.io/badge/License-Apache_2.0-1f2937?style=for-the-badge)](./LICENSE)
@@ -17,7 +17,7 @@ Software Engineering • Infrastructure • Distributed Systems
 
 ## About
 
-Mfraz is an independent software organization focused on high-performance systems, modern infrastructure and developer tooling.
+Mfrazlab is an independent software organization focused on high-performance systems, modern infrastructure and developer tooling.
 
 Projects are centered around:
 - distributed systems
